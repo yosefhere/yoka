@@ -1,0 +1,6 @@
+owner=417084908524142603
+prefix=Y
+game=By:Torky.KFC
+stayinchannel=true
+songinstatus=false
+token=NTU5MDU2NDEzMTAwMzQzMzA2.D3f1oQ.kxERU6DYT0goUwFvo6qPs42vlHs
